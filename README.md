@@ -16,3 +16,5 @@ Ryzen 7 3700x
 Nvidia RTX 2070 Super Founder's Edition running nvidia-proprietary 465.27 driver
 
 OS: Endeavor OS (Arch-based) using the xanmod-5.12.1 kernel. I use Windows 10 for specific software and for games that can't run in Linux due to anticheat compatibility issues.
+
+EDIT 3: test push for Discord
