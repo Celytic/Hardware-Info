@@ -13,8 +13,7 @@ Ryzen 7 3700x
 
 3TB HDD for storage
 
-Nvidia RTX 2070 Super Founder's Edition running nvidia-proprietary 465.27 driver
+Nvidia RTX 2070 Super Founder's Edition running nvidia-proprietary 465.31 driver
 
-OS: Endeavor OS (Arch-based) using the xanmod-5.12.1 kernel. I use Windows 10 for specific software and for games that can't run in Linux due to anticheat compatibility issues.
-
+OS: Solus on latest kernel. Windows 10 used for specific programs and playing PSO2 New Genesis
 EDIT 3: test push for Discord
