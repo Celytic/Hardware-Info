@@ -1,7 +1,7 @@
-# Random github thing 
+# Info to reference for Wine testing.
 This is my Github account for testing projects and giving feedback. I don't have any coding abilities, so you'll just see me testing things, if anything.
 
-System specs include:
+# Desktop
 
 Ryzen 7 3700x
 
@@ -16,4 +16,16 @@ Ryzen 7 3700x
 Nvidia RTX 2070 Super Founder's Edition running nvidia-proprietary 465.31 driver
 
 OS: Solus on latest kernel. Windows 10 used for specific programs and playing PSO2 New Genesis
-EDIT 3: test push for Discord
+
+# Laptop
+Lenovo Thinkpad E14
+
+Intel Core i5 10210u
+
+8GB DDR4-2666
+
+256GB NVME
+
+128GB USB 3.1 drive
+
+OS: RebornOS (arch-based)
