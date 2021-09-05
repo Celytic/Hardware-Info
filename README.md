@@ -9,13 +9,13 @@ Ryzen 7 3700x
 
 500gb NVME SSD for main OS
 
-1TB SATA SSD for Windows 10
+1TB SATA SSD for Windows 10 AME (20H2)
 
 3TB HDD for storage
 
 Nvidia RTX 2070 Super Founder's Edition running nvidia-proprietary 465.31 driver
 
-OS: Solus on latest kernel. Windows 10 used for specific programs and playing PSO2 New Genesis
+OS: Arch Linux x 64 with linux-tkg 5.14.1
 
 # Laptop
 Lenovo Thinkpad E14
@@ -26,6 +26,9 @@ Intel Core i5 10210u
 
 256GB NVME
 
+120GB HP SSD
+
 128GB USB 3.1 drive
 
-OS: RebornOS (arch-based)
+OS: macOS Big Sur
+secondary OS: Arch Linux x64
