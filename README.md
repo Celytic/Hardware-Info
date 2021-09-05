@@ -13,7 +13,9 @@ Ryzen 7 3700x
 
 3TB HDD for storage
 
-Nvidia RTX 2070 Super Founder's Edition running nvidia-proprietary 465.31 driver
+Nvidia RTX 2070 Super Founder's Edition running nvidia-proprietary 470 driver
+
+Sapphire Nitro+ RX 580 4GB running mesa driver
 
 OS: Arch Linux x 64 with linux-tkg 5.14.1
 
