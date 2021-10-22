@@ -1,7 +1,24 @@
 # Info to reference for Wine testing.
 This is my Github account for testing projects and giving feedback. I don't have any coding abilities, so you'll just see me testing things, if anything.
 
-# Desktop
+
+# Main Laptop (ROG Strix G15 Advantage Edition)
+Ryzen 9 5900HX
+
+32GB DDR4-3200 (dual channel
+
+2x 1TB Samsung 980 NVME SSD
+
+RX 6800M 12gb GPU + integrated graphics
+
+Windows 11 Pro Insider build
+
+Manjaro Linux on linux-tkg 5.15-rc6 kernel
+
+
+
+
+# Desktop (no longer in service, RIP)
 
 Ryzen 7 3700x
 
