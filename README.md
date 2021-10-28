@@ -5,7 +5,7 @@ This is my Github account for testing projects and giving feedback. I don't have
 # Main Laptop (ROG Strix G15 Advantage Edition)
 Ryzen 9 5900HX
 
-32GB DDR4-3200 (dual channel
+32GB DDR4-3200 (dual channel, PNY XLR8)
 
 2x 1TB Samsung 980 NVME SSD
 
@@ -13,7 +13,7 @@ RX 6800M 12gb GPU + integrated graphics
 
 Windows 11 Pro Insider build
 
-Manjaro Linux on linux-tkg 5.15-rc6 kernel
+Arch Linux with linux-tkg 5.16-rc7
 
 
 
@@ -34,7 +34,7 @@ Nvidia RTX 2070 Super Founder's Edition running nvidia-proprietary 470 driver
 
 Sapphire Nitro+ RX 580 4GB running mesa driver
 
-OS: Arch Linux x 64 with linux-tkg 5.14.1
+OS: Arch Linux x64 with linux-tkg 5.14.1
 
 # Laptop
 Lenovo Thinkpad E14
