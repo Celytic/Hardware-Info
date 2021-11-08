@@ -2,21 +2,20 @@
 This is my Github account for testing projects and giving feedback. I don't have any coding abilities, so you'll just see me testing things, if anything.
 
 
-# Main Laptop (ROG Strix G15 Advantage Edition)
-Ryzen 9 5900HX
+# Main Laptop (Maingear Vector Pro
+Intel Core i7 11800H
 
 32GB DDR4-3200 (dual channel, PNY XLR8)
 
-2x 1TB Samsung 980 NVME SSD
+2x 1TB SSDs (one gen4, unknown, one gen3 Samsung 980)
 
-RX 6800M 12gb GPU + integrated graphics
+RTX 3080 16GB
 
-Windows 11 Pro Insider build
+Windows 10 manually debloated
 
-Arch Linux with linux-tkg 5.16-rc7
+(insert Linux distro choice here)
 
-
-
+17.3" 2560x1440, 165hz panel
 
 # Desktop (no longer in service, RIP)
 
@@ -50,4 +49,4 @@ Intel Core i5 10210u
 128GB USB 3.1 drive
 
 OS: macOS Big Sur
-secondary OS: Arch Linux x64
+secondary OS: Elementary OS 6 Odin using the 5.11.0-38 generic kernel
