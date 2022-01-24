@@ -2,17 +2,16 @@
 This is my Github account for testing projects and giving feedback. I don't have any coding abilities, so you'll just see me testing things, if anything.
 
 
-# Main Laptop (Maingear Vector Pro
+# Main Laptop (Maingear Vector Pro/Tongfang GM7TG8P)
 Intel Core i7 11800H
 
-32GB DDR4-3200 (dual channel, PNY XLR8)
+64GB DDR4-3200 CL20 (dual channel, HyperX Fury)
 
-2x 1TB SSDs (one gen4, unknown, one gen3 Samsung 980)
+1x Samsung 1TB OEM Gen4 NVME, 1x Inland Platinum 2TB NVME
 
 RTX 3080 16GB
 
-Windows 10 manually debloated
-
+Windows 10 LTSC 2021
 (insert Linux distro choice here)
 
 17.3" 2560x1440, 165hz panel
@@ -40,13 +39,11 @@ Lenovo Thinkpad E14
 
 Intel Core i5 10210u
 
-8GB DDR4-2666
+16GB DDR4-3200 (single channel)
 
-256GB NVME
+1TB Samsung 980 NVME
 
 120GB HP SSD
 
-128GB USB 3.1 drive
-
-OS: macOS Big Sur
-secondary OS: Elementary OS 6 Odin using the 5.11.0-38 generic kernel
+OS: Windows 10 LTSC 2021
+secondary OS: TBD
