@@ -12,7 +12,7 @@ Intel Core i7 11800H
 RTX 3080 16GB
 
 Windows 10 LTSC 2021
-(insert Linux distro choice here)
+ArchLabs Linux using linux-tkg latest non-preview
 
 17.3" 2560x1440, 165hz panel
 
