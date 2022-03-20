@@ -1,8 +1,25 @@
 # Info to reference for Wine testing.
-This is my Github account for testing projects and giving feedback. I don't have any coding abilities, so you'll just see me testing things, if anything.
+This holds hardware info for any of the Wine/Proton testing I've done.
 
 
-# Main Laptop (Maingear Vector Pro/Tongfang GM7TG8P)
+# Main Desktop (to be updated as system is delivered)
+Intel Core i7 12700K
+
+32GB DDR5-6000
+
+Radeon RX 6900 XT
+
+1x 1TB drive (of some type, to be filled later)
+
+1x Inland Platinum 2TB NVME (moved over from Shimarin)
+
+1x Seagate Barracuda Compute 3TB HDD
+
+Arch Linux x64 (kernel TBD)
+
+Windows 11 Enterprise w/ some tweaks
+
+# Main Laptop: Shimarin (Maingear Vector Pro/Tongfang GM7TG8P), soon to be replaced
 Intel Core i7 11800H
 
 64GB DDR4-3200 CL20 (dual channel, HyperX Fury)
@@ -16,7 +33,7 @@ ArchLabs Linux using linux-tkg latest non-preview
 
 17.3" 2560x1440, 165hz panel
 
-# Desktop (no longer in service, RIP)
+# Yatagarasu (no longer in service, RIP)
 
 Ryzen 7 3700x
 
@@ -34,7 +51,7 @@ Sapphire Nitro+ RX 580 4GB running mesa driver
 
 OS: Arch Linux x64 with linux-tkg 5.14.1
 
-# Laptop
+# Vesunna
 Lenovo Thinkpad E14
 
 Intel Core i5 10210u
