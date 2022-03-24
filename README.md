@@ -3,21 +3,32 @@ This holds hardware info for any of the Wine/Proton testing I've done.
 
 
 # Main Desktop (to be updated as system is delivered)
-Intel Core i7 12700K
 
-32GB DDR5-6000
+Case: Cougar MX 660-T
 
-Radeon RX 6900 XT
+PSU: Zalman 1200W 80+ Platinum 
 
-1x 1TB drive (of some type, to be filled later)
+CPU: AMD Ryzen 7 5800X
 
-1x Inland Platinum 2TB NVME (moved over from Shimarin)
+CPU Cooler: Cooler Master MasterLiquid M120L v2 RGB
 
-1x Seagate Barracuda Compute 3TB HDD
+RAM: 32GB Kingston HyperX DDR4-3733
 
-Arch Linux x64 (kernel TBD)
+Motherboard: Aorus X570 Elite 
 
-Windows 11 Enterprise w/ some tweaks
+GPU: ASRock Phantom Gaming Radeon RX 6800 XT 16GB
+
+Storage:1x 1TB XPG Spectrix S40G RGB NVME SSD
+
+Storage: 1x Inland Platinum 2TB NVME (moved over from Shimarin)
+
+Storage: 1x 2TB Seagate Barracuda HDD
+
+Storage: 1x Seagate Barracuda Compute 3TB HDD
+
+OS: Arch Linux x64 (kernel TBD)
+
+OS: Windows 10 LTSC 21H2
 
 # Main Laptop: Shimarin (Maingear Vector Pro/Tongfang GM7TG8P), soon to be replaced
 Intel Core i7 11800H
