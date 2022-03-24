@@ -2,7 +2,7 @@
 This holds hardware info for any of the Wine/Proton testing I've done.
 
 
-# Main Desktop (to be updated as system is delivered)
+# Main Desktop (to be updated as system is delivered, name TBD)
 
 Case: Cougar MX 660-T
 
