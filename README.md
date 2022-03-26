@@ -30,14 +30,14 @@ OS: Arch Linux x64 (kernel TBD)
 
 OS: Windows 10 LTSC 21H2
 
-# Main Laptop: Shimarin (Maingear Vector Pro/Tongfang GM7TG8P), soon to be replaced
+# Main Laptop: Shimarin (Maingear Vector Pro/Tongfang GM7TG8P), no longer in service.
 Intel Core i7 11800H
 
 64GB DDR4-3200 CL20 (dual channel, HyperX Fury)
 
 1x Samsung 1TB OEM Gen4 NVME, 1x Inland Platinum 2TB NVME
 
-RTX 3080 16GB
+RTX 3080 Mobile 165w, 16GB
 
 Windows 10 LTSC 2021
 ArchLabs Linux using linux-tkg latest non-preview
