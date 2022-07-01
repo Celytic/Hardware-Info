@@ -26,7 +26,7 @@ Storage: 1x 2TB Seagate Barracuda HDD
 
 Storage: 1x Seagate Barracuda Compute 3TB HDD
 
-OS: Arch Linux x64 (kernel TBD)
+OS: Solus using the linux-current kernel branch
 
 OS: Windows 10 LTSC 21H2
 
