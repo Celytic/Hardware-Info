@@ -26,11 +26,11 @@ Storage: 1x 2TB Seagate Barracuda HDD
 
 Storage: 1x Seagate Barracuda Compute 3TB HDD
 
-OS: Solus using the linux-current kernel branch
+OS: Fedora 36 using latest kernel branch available
 
 OS: Windows 10 LTSC 21H2
 
-# Main Laptop: Shimarin (Maingear Vector Pro/Tongfang GM7TG8P), no longer in service.
+# Main Laptop: Shimarin (Maingear Vector Pro/Tongfang GM7TG8P), no longer in service due to power delivery failure.
 Intel Core i7 11800H
 
 64GB DDR4-3200 CL20 (dual channel, HyperX Fury)
@@ -44,7 +44,7 @@ ArchLabs Linux using linux-tkg latest non-preview
 
 17.3" 2560x1440, 165hz panel
 
-# Yatagarasu (no longer in service, RIP)
+# Yatagarasu (no longer in service due to power failure)
 
 Ryzen 7 3700x
 
