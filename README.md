@@ -64,7 +64,11 @@ OS: Arch Linux x64 with linux-tkg 5.14.1
 
 # Sanae
 Huawei Matebook D14 
+
 Intel Core i5 10210U
+
 8GB DDR4
+
 512gb NVME
+
 Windows 10 Enterprise IoT LTSC
